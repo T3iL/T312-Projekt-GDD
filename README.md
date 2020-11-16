@@ -1,14 +1,15 @@
 # (2020.11.16/17) T12-Projekt-GDD
 ## -------INFO
 ```
-1. GDD
+1. Mikołaj Susek - Alien shooter - 
+2. Michał Ryszka - ACL Race Club - https://trello.com/b/EtNDRHZA/acl-racing-club
 ```
 ### --------ZAD
 ```
 T31201 - Przygotuj GDD
 
 - skorzystać z szablonu (usunąć niepotrzebne sekcje)
-- dodatkowo umieścić: ToDo list, Tutorial links
+- dodatkowo umieścić: ToDo list, Tutorial links 
 ```
 ### --------Links
 https://github.com/T3iL/T310-Projekt-GDD
