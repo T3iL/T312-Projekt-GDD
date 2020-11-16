@@ -1,4 +1,4 @@
-# (2020.11.16/17) T12-Projekt-GDD
+# (2020.11.16/17) T312-Projekt-GDD
 ## -------INFO
 ```
 1. OOP, Classes
@@ -27,9 +27,13 @@ T31201 - Przygotuj GDD
 - dodatkowo umieścić: ToDo list, Tutorial links 
 ```
 ### --------Links
-https://github.com/T3iL/T310-Projekt-GDD
+https://github.com/T3iL/T312-Projekt-GDD
 
 https://youtu.be/eI9idPTT0c4
+
+http://www.professorcloud.com/svg-to-canvas/
+
+https://github.com/canvg/canvg
 
 https://github.com/T3iL/T311-Projekt/blob/main/GDD%20template
 
