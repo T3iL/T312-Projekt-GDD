@@ -1,7 +1,7 @@
 # (2020.11.16/17) T12-Projekt-GDD
 ## -------INFO
 ```
-1. OOP, Classess
+1. OOP, Classes
 2. Random patterns
 3. Colision detection
 
