@@ -1,8 +1,10 @@
 # (2020.11.16/17) T12-Projekt-GDD
 ## -------INFO
 ```
-1. Mikołaj Susek - Alien shooter - 
-2. Michał Ryszka - ACL Race Club - https://trello.com/b/EtNDRHZA/acl-racing-club
+1. Mikołaj - Alien shooter - 
+2. Michał - ACL Race Club - https://trello.com/b/EtNDRHZA/acl-racing-club
+3. Kamil - Kostka rubika (awaryjnie: pong)
+4. 
 ```
 ### --------ZAD
 ```
