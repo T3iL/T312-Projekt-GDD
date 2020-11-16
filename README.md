@@ -5,6 +5,10 @@
 2. Michał - ACL Race Club - https://trello.com/b/EtNDRHZA/acl-racing-club
 3. Kamil - Kostka rubika (awaryjnie: pong)
 4. Dawid - Chińczyk
+5. Konrad - Icy Tower
+6. Marcin - Horror game
+7. Włodek - Moon patrol
+7. 
 ```
 ### --------ZAD
 ```
