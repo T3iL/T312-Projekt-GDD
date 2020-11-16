@@ -6,9 +6,14 @@
 ### --------ZAD
 ```
 T31201 - Przygotuj GDD
+
+- skorzystać z szablonu (usunąć niepotrzebne sekcje)
+- dodatkowo umieścić: ToDo list, Tutorial links
 ```
 ### --------Links
 https://github.com/T3iL/T310-Projekt-GDD
+
+https://youtu.be/eI9idPTT0c4
 
 https://github.com/T3iL/T311-Projekt/blob/main/GDD%20template
 
