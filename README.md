@@ -4,7 +4,7 @@
 1. Mikołaj - Alien shooter - 
 2. Michał - ACL Race Club - https://trello.com/b/EtNDRHZA/acl-racing-club
 3. Kamil - Kostka rubika (awaryjnie: pong)
-4. 
+4. Dawid - Chińczyk
 ```
 ### --------ZAD
 ```
