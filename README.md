@@ -3,13 +3,14 @@
 ```
 1. GDD
 ```
-
 ### --------ZAD
 ```
 T31201 - Przygotuj GDD
 ```
 ### --------Links
 https://github.com/T3iL/T310-Projekt-GDD
+
+https://github.com/T3iL/T311-Projekt/blob/main/GDD%20template
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
 
