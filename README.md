@@ -16,6 +16,11 @@ GRY:
 ```
 ### --------ZAD
 ```
+ZADANIA ZALEGŁE:
+- T-Rex
+- Sinusoida animowana
+- Stoper
+
 T31201 - Przygotuj GDD
 
 - skorzystać z szablonu (usunąć niepotrzebne sekcje)
