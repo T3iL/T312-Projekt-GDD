@@ -1,6 +1,11 @@
 # (2020.11.16/17) T12-Projekt-GDD
 ## -------INFO
 ```
+1. OOP, Classess
+2. Random patterns
+3. Colision detection
+
+GRY:
 1. Mikołaj - Alien shooter - 
 2. Michał - ACL Race Club - https://trello.com/b/EtNDRHZA/acl-racing-club
 3. Kamil - Kostka rubika (awaryjnie: pong)
@@ -8,7 +13,6 @@
 5. Konrad - Icy Tower
 6. Marcin - Horror game
 7. Włodek - Moon patrol
-7. 
 ```
 ### --------ZAD
 ```
