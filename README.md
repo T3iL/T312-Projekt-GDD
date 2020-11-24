@@ -13,6 +13,7 @@ GRY:
 5. Konrad - Boxing
 6. Marcin - Horror game
 7. Włodek - Moon patrol
+8. Antoni - Wyscigi
 ```
 ### --------ZAD
 ```
